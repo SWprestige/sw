@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://southwalesiceblasting.co.uk/sitemap.xml
