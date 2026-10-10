@@ -1,0 +1,23 @@
+{
+  "name": "South Wales Prestige Ice Blasting",
+  "short_name": "SW Ice Blasting",
+  "description": "Dry ice blasting in Cwmcarn and across South Wales. No water, no grit, no chemicals.",
+  "lang": "en-GB",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#14171C",
+  "theme_color": "#14171C",
+  "icons": [
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
